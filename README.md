@@ -18,4 +18,4 @@ Once you have a good number of examples (above 10 is a good number), you can swi
 
 This patch uses ML.* (ml.star) Max/MSP package by Benjamin D. Smith, which you should install to make this patch work.
 
-Suggestion or improvements? Please let me know.
+Suggestion or improvements or want to contribute? Please let me know.
